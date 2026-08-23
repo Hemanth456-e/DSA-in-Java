@@ -1,0 +1,20 @@
+# Heart Disease Federated Learning - Complete Frontend
+
+This ZIP contains the four frontend projects exactly as separate role interfaces:
+
+1. 01-login
+2. 02-admin-dashboard
+3. 03-hospital-dashboard
+4. 04-user-dashboard
+
+Each folder is an independent React + Vite project and can be edited or deployed separately.
+
+For each project:
+- Install: npm install
+- Development: npm run dev
+- Build: npm run build
+- Render Build Command: npm install && npm run build
+- Render Publish Directory: dist
+
+Important:
+These are frontend/demo interfaces. They are not connected to a backend, database, or real ML model yet.
